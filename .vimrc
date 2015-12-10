@@ -30,7 +30,7 @@ set numberwidth=4
 set textwidth=80
 set columns=84
 "set text height line number
-set lines=30
+set lines=40
 "set current position show
 set ruler
 "no annoying sound on errors
