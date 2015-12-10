@@ -57,7 +57,9 @@ set matchtime=5
 set ffs=unix,dos,mac
 "set fast save and close
 let g:mapleader =","
-nmap <leader>w :w!<cr>
+"nmap <leader>w :w!<cr>
+nmap <C-s> :w!<cr>
+nmap <C-z> :u<cr>
 nmap <leader>q :q<cr>
 nmap <leader>qq :q!<cr>
 nmap <leader>wq :wq!<cr>
